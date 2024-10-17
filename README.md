@@ -1,3 +1,5 @@
+********  DOWNLOAD AND INSTALL THE LATEST VERSION OF PYTHON *******
+
 ********* PUT THESE COMMANDS INTO CMD : **************
 
 	  pip install mysql.connector
